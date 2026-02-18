@@ -1,5 +1,7 @@
 /* styles.css */
 
-* {
-	font-family: Arial;
+.headline {
+	padding-top: 30px;
+	border-top: 2px solid #111111;
+	border-bottom: 2px solid #111111;
 }
